@@ -1,0 +1,6 @@
+{
+  "name": "HEXA - Curadoria Tech",
+  "description": "Uma Landing Page de altíssima conversão, com visual premium e responsivo, atuando como Curadoria Tech.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
